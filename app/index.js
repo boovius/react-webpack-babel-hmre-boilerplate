@@ -1,6 +1,7 @@
 import React from 'react';
 
-import './styles.scss';
+import './stylesheets/normalize.scss';
+import './stylesheets/app.scss';
 
 export default class App extends React.Component {
   render () {
